@@ -1,16 +1,21 @@
-## Hi there 👋
+ 👋 Olá, eu sou o Charles Dela Justina!
 
-<!--
-**charlesdelajustina/charlesdelajustina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Futuro Analista de Dados** em transição de carreira, apaixonado por transformar dados em decisões inteligentes.
 
-Here are some ideas to get you started:
+📈 **Atualmente aprendendo:**
+- SQL para manipulação de dados
+- Python para análise e automação
+- Power BI para visualizações interativas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Objetivo:**
+Conquistar minha primeira oportunidade profissional como Analista de Dados e crescer junto com projetos desafiadores.
+
+🔗 **Meus projetos:**
+- 📊 [Análise de Vendas — SQL + Power BI](link_para_o_projeto)
+- 📑 [Estudo de Caso: Análise Financeira](link_para_o_projeto)
+- 🔍 [Dashboard de Indicadores de RH](link_para_o_projeto)
+
+*(Adicione ou substitua pelos projetos que for criando!)*
+
+📬 **Vamos nos conectar?**
+- [LinkedIn](https://www.linkedin.com/in/charlesjustina/)
